@@ -17,7 +17,7 @@ Code Context-Aware Reviewer Recommendation
 
 # Usage
 ## Data
-You can download our shared dataset from Google Drive, the link is: https://drive.google.com/drive/folders/1ZNLJYYBXLuRsm38LYRftyZO7zWrJa3Yx?usp=sharing
+You can download our shared dataset from [Google Drive](https://drive.google.com/drive/folders/1ZNLJYYBXLuRsm38LYRftyZO7zWrJa3Yx?usp=sharing)
 
 ## Configuration
 Edit hyper-parameters and settings in ```config.py```  
