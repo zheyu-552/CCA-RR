@@ -22,7 +22,7 @@ You can download our shared dataset from Google Drive, the link is: https://driv
 Edit hyper-parameters and settings in config.py
 
 ## Train
-python train --mode train
+>python train --mode train
 
 ## Eval
-python train --mode eval
+>python train --mode eval
