@@ -8,12 +8,12 @@ Code Context-Aware Reviewer Recommendation
 * tqdm ==4.48.2
 
 # Code Structure
-* attention: Self-attention network and submodule networks.
-* method: Representation for file path, source files, and textual information.
-* configs.py: Basic configuration for the attention and method folder. Each function defines the hyper-parameters for the corresponding model.
-* datasets.py: Dataset loader.
-* train.py: Train and validate representation models.
-* utils.py: Utilities for models and training.
+* ```attention```: Self-attention network and submodule networks.
+* ```method```: Representation for file path, source files, and textual information.
+* ```configs.py```: Basic configuration for the attention and method folder. Each function defines the hyper-parameters for the corresponding model.
+* ```datasets.py```: Dataset loader.
+* ```train.py```: Train and validate representation models.
+* ```utils.py```: Utilities for models and training.
 
 # Usage
 ## Data
