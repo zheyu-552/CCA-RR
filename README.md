@@ -1,15 +1,12 @@
 # CCA-RR
-# CCA-RR
 Code Context-Aware Reviewer Recommendation
 
 # Dependency
-（看看是不是Latex的语法 如果是的话 直接复制下面的）
 \begin{itemize}
     \item Python==2.7
     \item PyTorch==1.6.0
     \item numpy==1.16.3
 \end{itemize}
-（如果不是的话 你看看怎么弄有那个小点点 然后内容是下面的 反正呈现效果按照我给你的示例网址来）
 Python==2.7
 PyTorch==1.6.0
 numpy==1.16.3
