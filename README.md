@@ -2,11 +2,9 @@
 Code Context-Aware Reviewer Recommendation
 
 # Dependency
-\begin{itemize}
-   \*item Python==2.7  
+    *item Python==2.7  
     *item PyTorch==1.6.0  
     *item numpy==1.16.3  
-\end{itemize}
 Python==2.7
 PyTorch==1.6.0
 numpy==1.16.3
