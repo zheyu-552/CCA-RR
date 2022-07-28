@@ -2,9 +2,9 @@
 Code Context-Aware Reviewer Recommendation
 
 # Dependency
-Python==2.7  
-PyTorch==1.6.0  
-numpy==1.16.3  
+* Python==2.7  
+* PyTorch==1.6.0  
+* numpy==1.16.3  
 
 # Code Structure
 \begin{itemize}
